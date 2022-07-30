@@ -1,0 +1,32 @@
+h1{
+    color: cornflowerblue;
+    text-align: center;
+    font-weight: bold;
+    /* background-color: black; */
+    font-family: Cinzel;
+}
+
+.image{
+    width: 350px;
+    height: auto;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.heading-two{
+    color: cornflowerblue;
+    text-align: left;
+    font-weight: bold;
+    /* font-family: 'Yanone Kaffeesatz', sans-serif; */
+    font-family: Cinzel;
+}
+
+*{
+    background-color: aquamarine;
+}
+
+p, ol, li{
+    font-family: 'Inconsolata', monospace;
+}
